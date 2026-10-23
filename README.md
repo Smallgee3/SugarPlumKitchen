@@ -1,4 +1,4 @@
-# Smart Pantry Manager
+# Sugarplum Kitchen
 
 A Java Android app that helps reduce food waste. The user records the ingredients they have at home (their "pantry"), and the app suggests only the recipes they can cook right now, using **strictly** those ingredients and no shopping trip required.
 
@@ -35,7 +35,7 @@ I used **SQLite** through `SQLiteOpenHelper`. The app is entirely personal and o
 ## Setup and run
 
 1. Install [Android Studio](https://developer.android.com/studio).
-2. Clone the repository: `git clone https://github.com/Smallgee3/SmartPantryManager.git`
+2. Clone the repository: `git clone https://github.com/Smallgee3/sugarplumkitchen.git`
 3. In Android Studio choose **File > Open** and select the cloned folder. Wait for the Gradle sync to finish.
 4. Create or start an emulator (**Tools > Device Manager**), or connect a phone with USB debugging enabled.
 5. Select the **app** run configuration and click **Run**.
