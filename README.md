@@ -47,8 +47,9 @@ As required by the brief, the app uses no maps, GPS or location services, and ha
 
 ## Screenshots
 
-![Pantry](screenshots/pantry.png)
-![Add ingredient](screenshots/add.png)
-![Recipes](screenshots/recipes.png)
-![Recipe detail](screenshots/detail.png)
-![Settings](screenshots/settings.png)
+![Pantry](screenshots/01_pantry_list.png)
+![Add ingredient](screenshots/02_add_ingredient.png)
+![Recipes](screenshots/03_suggest_recipe.png)
+![Recipe detail](06_detail.png)
+![Settings](screenshots/04_settings.png)
+![Expiry date](screenshots/05_expiry_date.png)
